@@ -1,4 +1,4 @@
 FROM centos
 MAINTAINER taro
-CMD ["echo", "hello"]
+CMD ["echo", "hello world"]
 
