@@ -1,4 +1,4 @@
 FROM centos
 MAINTAINER taro
-CMD ["echo", "kamata"]
+CMD ["echo", "kamata now"]
 
